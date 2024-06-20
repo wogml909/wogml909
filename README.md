@@ -31,7 +31,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.notion.so/JAVA-2024-cf65b37ec4034eedbf5e21830a9f08ee> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/JAVA-2024-cf65b37ec4034eedbf5e21830a9f08ee"> </a>
+    <div style="text-align: left;"> <a href=https://www.notion.so/JAVA-2024-cf65b37ec4034eedbf5e21830a9f08ee> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/dc26f962066840b78caf50311a00203b"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
