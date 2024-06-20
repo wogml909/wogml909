@@ -9,7 +9,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
 <a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
