@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wogml909&locale=ko)](https://git.io/streak-stats)
 
@@ -11,7 +11,7 @@
 <a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+
 
 <!--
 **wogml909/wogml909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
