@@ -3,7 +3,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI I'M JEAHI KIM </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> hi my name is jh~</li>nice to meet you everyone~</li>come mypage anytime~~! welcome</li> ご訪問ありがとうございます</li>感谢您的访问。</li></div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> hi my name is jh~</li>nice to meet you everyone~</li>come mypage anytime~~! welcome</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">ご訪問ありがとうございます</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">感谢您的访问</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
